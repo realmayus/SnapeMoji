@@ -1,5 +1,5 @@
 # SnapeMoji
-Animated Emojis for Users without Discord Nitro! Made with JDA (Java Discord API)
+Animated Emojis for Users without Discord Nitro! Made with JDA (Java Discord API) <br /> <br />
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)  
 
 # How To Install
